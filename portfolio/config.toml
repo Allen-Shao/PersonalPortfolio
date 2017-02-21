@@ -1,0 +1,26 @@
+baseurl = "http://allen-shao.github.io"
+languageCode = "en-us"
+title = "WidgetCo Inc"
+canonifyUrls = "true"
+theme = "landing-page-hugo"
+
+[params]
+    description = "The best widgets in the world!"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:bushbama@whitehouse.gov"
+[[params.social]]
+    title = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    icon = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+[[params.social]]
+    title = "linkedin"
+    icon = "linkedin"
+    url = "http://linkedin.com/in/yourusername"

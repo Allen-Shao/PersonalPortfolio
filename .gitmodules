@@ -1,0 +1,4 @@
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = git@github.com:Allen-Shao/Allen-Shao.github.io.git
+	branch = master
