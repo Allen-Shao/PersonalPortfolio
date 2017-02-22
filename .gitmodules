@@ -2,3 +2,9 @@
 	path = portfolio/public
 	url = git@github.com:Allen-Shao/Allen-Shao.github.io.git
 	branch = master
+[submodule "portfolio/themes/landing-page-hugo"]
+	path = portfolio/themes/landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "portfolio/themes/hugo-creative-theme"]
+	path = portfolio/themes/hugo-creative-theme
+	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
