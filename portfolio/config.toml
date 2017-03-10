@@ -1,12 +1,12 @@
-baseurl = "http://allen-shao.github.io"
+baseurl = ""
 languageCode = "en-us"
-title = "WidgetCo Inc"
+title = "Shao Yiyang's Portforlio"
 canonifyUrls = "true"
 theme = "landing-page-hugo"
 
 [params]
-    description = "The best widgets in the world!"
-    custom_css = ["css/local.css"]
+    name = "Shao Yiyang"
+    description = "Just another programmer."
 
 [[params.social]]
     title = "email"
