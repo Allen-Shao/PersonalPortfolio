@@ -5,3 +5,6 @@
 [submodule "portfolio/themes/landing-page-hugo"]
 	path = portfolio/themes/landing-page-hugo
 	url = https://github.com/Allen-Shao/landing-page-hugo.git
+[submodule "creative-theme"]
+	path = portfolio/themes/hugo-creative-theme
+	url = https://github.com/Allen-Shao/hugo-creative-theme.git
