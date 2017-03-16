@@ -2,7 +2,7 @@
 date = "2015-07-18T14:08:29+02:00"
 draft = false
 title = "first"
-img = "http://core0.staticworld.net/images/article/2015/04/macbook-no-glow-2-100578153-orig.jpg"
+img = ""
 weight = 1
 +++
 
